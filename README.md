@@ -10,4 +10,4 @@ ScreenShots:
 ![](https://github.com/fukhaos/Movies-App/blob/master/src/assets/second.png)
 
 Live video below:
-### youtube soon.
+https://youtu.be/XoEFCdJrWCg
